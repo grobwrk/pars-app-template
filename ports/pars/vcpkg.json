@@ -2,7 +2,7 @@
   "name": "pars",
   "version-semver": "0.2.0",
   "description": "c++23 framework for distributed application",
-  "homepage": "https://github.com/grobwrk/pars",
+  "homepage": "https://github.com/grobx/pars-cxx",
   "license": "BSD-3-Clause",
   "dependencies": [
     {

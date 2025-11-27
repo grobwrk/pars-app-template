@@ -1,6 +1,6 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
-    REPO grobwrk/pars
+    REPO grobx/pars-cxx
     REF "v${VERSION}"
     SHA512 c05eac6d707f57d6bbdb6bfccf55b267a24d628c608976f073e6f325fadb910d5a7879fb99a8f491e938edc9421d6dc3de0eef2b6d4d7aeb508ce9dfd55fc863
 )
