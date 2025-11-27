@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO grobx/pars-cxx
     REF "v${VERSION}"
-    SHA512 c05eac6d707f57d6bbdb6bfccf55b267a24d628c608976f073e6f325fadb910d5a7879fb99a8f491e938edc9421d6dc3de0eef2b6d4d7aeb508ce9dfd55fc863
+    SHA512 7f7d4987456d70fcb55ae2b70c34b6df37ce246c27bc1ce8818b45f48d36745b8c88b56b14d982e499800e89c3c54e48fff6c74d10e0c2342d64102a7e01aaa1
 )
 
 vcpkg_cmake_configure(

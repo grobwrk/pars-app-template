@@ -12,6 +12,7 @@
     }
   ],
   "overlay-ports": [
+    "./ports/spdlog",
     "./ports/pars"
   ]
 }
